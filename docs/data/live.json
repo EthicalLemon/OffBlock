@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T10:27:34.268Z",
- "source_updated": "Thu Nov 12 10:27:24 2026 GMT",
+ "updated": "2026-11-12T10:41:13.138Z",
+ "source_updated": "Thu Nov 12 10:41:00 2026 GMT",
  "hubs": [
   "ATL",
   "DFW",
@@ -41,7 +41,7 @@
    "detail": "reopens Nov 21 at 14:15 UTC.",
    "key": "SNA|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-12T10:27:34.268Z"
+   "last_seen": "2026-11-12T10:41:13.138Z"
   },
   {
    "airport": "PNS",
@@ -50,7 +50,7 @@
    "detail": "reopens Nov 12 at 11:00 UTC.",
    "key": "PNS|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-12T10:27:34.268Z"
+   "last_seen": "2026-11-12T10:41:13.138Z"
   },
   {
    "airport": "LAX",
@@ -59,7 +59,7 @@
    "detail": "reopens May 28 at 16:00 UTC.",
    "key": "LAX|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-12T10:27:34.268Z"
+   "last_seen": "2026-11-12T10:41:13.138Z"
   },
   {
    "airport": "SAN",
@@ -68,7 +68,7 @@
    "detail": "reopens Jan 01 at 08:00 UTC.",
    "key": "SAN|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-12T10:27:34.268Z"
+   "last_seen": "2026-11-12T10:41:13.138Z"
   },
   {
    "airport": "ASE",
@@ -77,7 +77,7 @@
    "detail": "reopens Nov 12 at 14:00 UTC.",
    "key": "ASE|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-12T10:27:34.268Z"
+   "last_seen": "2026-11-12T10:41:13.138Z"
   },
   {
    "airport": "LAS",
@@ -86,7 +86,7 @@
    "detail": "reopens Jan 27 at 23:00 UTC.",
    "key": "LAS|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-12T10:27:34.268Z"
+   "last_seen": "2026-11-12T10:41:13.138Z"
   }
  ],
  "weather": {
@@ -118,13 +118,13 @@
    "obs": 1794477180
   },
   "BNA": {
-   "cat": "VFR",
+   "cat": "MVFR",
    "wind": 10,
    "gust": null,
    "vis": "10+",
-   "ceiling": null,
+   "ceiling": 2400,
    "wx": null,
-   "obs": 1794477180
+   "obs": 1794479460
   },
   "BOS": {
    "cat": "VFR",
@@ -154,13 +154,13 @@
    "obs": 1794477120
   },
   "DCA": {
-   "cat": "LIFR",
-   "wind": 5,
+   "cat": "IFR",
+   "wind": 6,
    "gust": null,
-   "vis": 1.5,
-   "ceiling": null,
+   "vis": 5,
+   "ceiling": 500,
    "wx": "BR",
-   "obs": 1794478980
+   "obs": 1794479760
   },
   "DEN": {
    "cat": "VFR",
