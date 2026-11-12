@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Offblock</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="live">
+<header>
+  <span class="mark">OFFBLOCK</span>
+  <nav>
+    <a href="index.html" class="on">Live</a>
+    <a href="ledger.html">Ledger</a>
+    <a href="bts.html">BTS overview</a>
+    <a href="network.html">BTS airports</a>
+    <a href="delays.html">BTS delays</a>
+  </nav>
+  <span class="period" id="period"></span>
+</header>
+<main>
+  <h1>US airports under FAA programs</h1>
+  <p class="brief" id="brief">Loading</p>
+
+  <div class="stats">
+    <div class="stat"><b id="n-airports">&mdash;</b><span>Airports affected</span></div>
+    <div class="stat"><b id="n-stops">&mdash;</b><span>Ground stops</span></div>
+    <div class="stat"><b id="n-gdp">&mdash;</b><span>Ground delay programs</span></div>
+    <div class="stat"><b id="n-closures">&mdash;</b><span>Closures</span></div>
+    <div class="stat"><b id="n-ifr">&mdash;</b><span>Hubs IFR or worse</span></div>
+  </div>
+
+  <section>
+    <div class="label">Board</div>
+    <p class="note">Ranked by severity: closure, ground stop, ground delay, then arrival or departure delay. Poor weather at the airport adds to the score. The last column counts programs logged there in the previous 30 days.</p>
+    <div class="filter"><input id="board-filter" type="text" placeholder="filter by airport code"></div>
+    <div id="board"></div>
+  </section>
+
+  <section>
+    <div class="label">Hub weather</div>
+    <p class="note">Flight category from the latest METAR. VFR is good, MVFR marginal, IFR and LIFR poor.</p>
+    <div id="hubs"></div>
+  </section>
+</main>
+<footer>
+  Programs: FAA National Airspace System Status. Weather: NOAA Aviation Weather Center. Both public data, refreshed about every 15 minutes by a scheduled job. Not for operational or flight-planning use. Independent portfolio project, not affiliated with the FAA, NOAA or any airline.
+</footer>
+<script src="lib.js"></script>
+<script src="live.js"></script>
+</body>
+</html>
