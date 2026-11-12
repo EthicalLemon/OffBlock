@@ -1,0 +1,391 @@
+{
+ "updated": "2026-11-12T10:27:34.268Z",
+ "source_updated": "Thu Nov 12 10:27:24 2026 GMT",
+ "hubs": [
+  "ATL",
+  "DFW",
+  "DEN",
+  "ORD",
+  "LAX",
+  "JFK",
+  "LAS",
+  "MCO",
+  "MIA",
+  "CLT",
+  "SEA",
+  "PHX",
+  "EWR",
+  "SFO",
+  "IAH",
+  "BOS",
+  "FLL",
+  "MSP",
+  "LGA",
+  "DTW",
+  "PHL",
+  "SLC",
+  "DCA",
+  "SAN",
+  "BWI",
+  "TPA",
+  "AUS",
+  "IAD",
+  "MDW",
+  "BNA"
+ ],
+ "events": [
+  {
+   "airport": "SNA",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!SNA 11/008 SNA AD AP CLSD DLY 0730-1415 2611100730-2611211415",
+   "detail": "reopens Nov 21 at 14:15 UTC.",
+   "key": "SNA|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-12T10:27:34.268Z",
+   "last_seen": "2026-11-12T10:27:34.268Z"
+  },
+  {
+   "airport": "PNS",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!PNS 11/041 PNS AD AP CLSD EXC HEL OPS 2611120530-2611121100",
+   "detail": "reopens Nov 12 at 11:00 UTC.",
+   "key": "PNS|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-12T10:27:34.268Z",
+   "last_seen": "2026-11-12T10:27:34.268Z"
+  },
+  {
+   "airport": "LAX",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!LAX 05/277 LAX AD AP CLSD TO NON SKED TRANSIENT GA ACFT EXC 24HR PPR CTC ATLANTIC AVIATION 310-258-9884 OR SIGNATURE AVIATION 310-410-9605 2605271826-2705281600",
+   "detail": "reopens May 28 at 16:00 UTC.",
+   "key": "LAX|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-12T10:27:34.268Z",
+   "last_seen": "2026-11-12T10:27:34.268Z"
+  },
+  {
+   "airport": "SAN",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!SAN 10/004 SAN AD AP CLSD TO NON SKED TRANSIENT GA ACFT EXC PPR 619-298-7704 2610011633-2701010800",
+   "detail": "reopens Jan 01 at 08:00 UTC.",
+   "key": "SAN|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-12T10:27:34.268Z",
+   "last_seen": "2026-11-12T10:27:34.268Z"
+  },
+  {
+   "airport": "ASE",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!ASE 11/141 ASE AD AP CLSD EXC LIFE FLT HEL AND SAR HEL 30MIN PPR 970-379-8406 2611120600-2611121400",
+   "detail": "reopens Nov 12 at 14:00 UTC.",
+   "key": "ASE|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-12T10:27:34.268Z",
+   "last_seen": "2026-11-12T10:27:34.268Z"
+  },
+  {
+   "airport": "LAS",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!LAS 10/160 LAS AD AP CLSD TO NON SKED TRANSIENT GA ACFT EXC 24HR PPR 702-261-7775 2610281926-2701272300",
+   "detail": "reopens Jan 27 at 23:00 UTC.",
+   "key": "LAS|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-12T10:27:34.268Z",
+   "last_seen": "2026-11-12T10:27:34.268Z"
+  }
+ ],
+ "weather": {
+  "ASE": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "ATL": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477120
+  },
+  "AUS": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "BNA": {
+   "cat": "VFR",
+   "wind": 10,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "BOS": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477240
+  },
+  "BWI": {
+   "cat": "VFR",
+   "wind": 4,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477240
+  },
+  "CLT": {
+   "cat": "VFR",
+   "wind": 10,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 11000,
+   "wx": "-RA",
+   "obs": 1794477120
+  },
+  "DCA": {
+   "cat": "LIFR",
+   "wind": 5,
+   "gust": null,
+   "vis": 1.5,
+   "ceiling": null,
+   "wx": "BR",
+   "obs": 1794478980
+  },
+  "DEN": {
+   "cat": "VFR",
+   "wind": 12,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "DFW": {
+   "cat": "VFR",
+   "wind": 3,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "DTW": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 4500,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "EWR": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 6000,
+   "wx": null,
+   "obs": 1794477060
+  },
+  "FLL": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "IAD": {
+   "cat": "LIFR",
+   "wind": 3,
+   "gust": null,
+   "vis": 0.13,
+   "ceiling": null,
+   "wx": "FG",
+   "obs": 1794478980
+  },
+  "IAH": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "JFK": {
+   "cat": "VFR",
+   "wind": 9,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 6000,
+   "wx": null,
+   "obs": 1794477060
+  },
+  "LAS": {
+   "cat": "VFR",
+   "wind": 5,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477360
+  },
+  "LAX": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "LGA": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 6000,
+   "wx": null,
+   "obs": 1794477060
+  },
+  "MCO": {
+   "cat": "VFR",
+   "wind": 3,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 30000,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "MDW": {
+   "cat": "VFR",
+   "wind": 13,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 8000,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "MIA": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "MSP": {
+   "cat": "VFR",
+   "wind": 9,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 3800,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "ORD": {
+   "cat": "VFR",
+   "wind": 12,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 8500,
+   "wx": null,
+   "obs": 1794477060
+  },
+  "PHL": {
+   "cat": "VFR",
+   "wind": 4,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 9500,
+   "wx": null,
+   "obs": 1794477240
+  },
+  "PHX": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477060
+  },
+  "PNS": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "SAN": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477060
+  },
+  "SEA": {
+   "cat": "VFR",
+   "wind": 4,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 18000,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "SFO": {
+   "cat": "VFR",
+   "wind": 4,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477360
+  },
+  "SLC": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477240
+  },
+  "SNA": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794477180
+  },
+  "TPA": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 20000,
+   "wx": null,
+   "obs": 1794477180
+  }
+ }
+}
