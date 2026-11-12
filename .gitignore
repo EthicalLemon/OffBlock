@@ -1,0 +1,10 @@
+data/raw/*
+!data/raw/.gitkeep
+*.sqlite
+*.sqlite3
+*.db
+*.csv
+!docs/data/events.csv
+~$*
+Thumbs.db
+.DS_Store
