@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T23:58:17.081Z",
- "source_updated": "Fri Nov 13 23:57:42 2026 GMT",
+ "updated": "2026-11-14T04:44:03.592Z",
+ "source_updated": "Sat Nov 14 04:43:50 2026 GMT",
  "hubs": [
   "ATL",
   "DFW",
@@ -41,7 +41,7 @@
    "detail": "avg 34 minutes, max 1 hour and 21 minutes",
    "key": "SAN|GROUND_DELAY",
    "first_seen": "2026-11-13T18:45:33.589Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
+   "last_seen": "2026-11-14T04:44:03.592Z"
   },
   {
    "airport": "SFO",
@@ -50,52 +50,7 @@
    "detail": "avg 2 hours and 18 minutes, max 11 hours and 30 minutes",
    "key": "SFO|GROUND_DELAY",
    "first_seen": "2026-11-13T18:45:33.589Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
-  },
-  {
-   "airport": "LGA",
-   "type": "GROUND_DELAY",
-   "reason": "wind",
-   "detail": "avg 45 minutes, max 2 hours and 46 minutes",
-   "key": "LGA|GROUND_DELAY",
-   "first_seen": "2026-11-13T18:45:33.589Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
-  },
-  {
-   "airport": "BOS",
-   "type": "GROUND_DELAY",
-   "reason": "airport volume",
-   "detail": "avg 26 minutes, max 1 hour and 43 minutes",
-   "key": "BOS|GROUND_DELAY",
-   "first_seen": "2026-11-13T18:45:33.589Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
-  },
-  {
-   "airport": "IAH",
-   "type": "ARRIVAL_DEPARTURE_DELAY",
-   "reason": "TM Initiatives:STOP:EQ",
-   "detail": "Departure, 2 hours and 30 minutes to 2 hours and 44 minutes, Decreasing",
-   "key": "IAH|ARRIVAL_DEPARTURE_DELAY",
-   "first_seen": "2026-11-13T23:58:17.081Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
-  },
-  {
-   "airport": "SUA",
-   "type": "AIRPORT_CLOSURE",
-   "reason": "!MIA 11/158 SUA AD AP CLSD EXC AIRSHOW ACFT 2611131600-2611140100",
-   "detail": "reopens Nov 14 at 01:00 UTC.",
-   "key": "SUA|AIRPORT_CLOSURE",
-   "first_seen": "2026-11-13T18:45:33.589Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
-  },
-  {
-   "airport": "FLL",
-   "type": "AIRPORT_CLOSURE",
-   "reason": "!FLL 11/137 FLL AD AP CLSD TO DIVERSION ACFT DUE TO CAPACITY CTC AP MANAGEMENT 954-995-2838 2611132323-2611140900",
-   "detail": "reopens Nov 14 at 09:00 UTC.",
-   "key": "FLL|AIRPORT_CLOSURE",
-   "first_seen": "2026-11-13T23:58:17.081Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
+   "last_seen": "2026-11-14T04:44:03.592Z"
   },
   {
    "airport": "LAX",
@@ -104,7 +59,7 @@
    "detail": "reopens May 28 at 16:00 UTC.",
    "key": "LAX|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
+   "last_seen": "2026-11-14T04:44:03.592Z"
   },
   {
    "airport": "SAN",
@@ -113,7 +68,16 @@
    "detail": "reopens Jan 01 at 08:00 UTC.",
    "key": "SAN|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
+   "last_seen": "2026-11-14T04:44:03.592Z"
+  },
+  {
+   "airport": "FLL",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!FLL 11/142 FLL AD AP CLSD TO DIVERSION ACFT DUE TO CAPACITY 2611140038-2611140900",
+   "detail": "reopens Nov 14 at 09:00 UTC.",
+   "key": "FLL|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-13T23:58:17.081Z",
+   "last_seen": "2026-11-14T04:44:03.592Z"
   },
   {
    "airport": "BDL",
@@ -122,7 +86,16 @@
    "detail": "reopens Nov 14 at 05:00 UTC.",
    "key": "BDL|AIRPORT_CLOSURE",
    "first_seen": "2026-11-13T23:58:17.081Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
+   "last_seen": "2026-11-14T04:44:03.592Z"
+  },
+  {
+   "airport": "DCA",
+   "type": "AIRPORT_CLOSURE",
+   "reason": "!DCA 11/261 DCA AD AP CLSD TO DIVERSION ACFT 2611140004-2611141100",
+   "detail": "reopens Nov 14 at 11:00 UTC.",
+   "key": "DCA|AIRPORT_CLOSURE",
+   "first_seen": "2026-11-14T04:44:03.592Z",
+   "last_seen": "2026-11-14T04:44:03.592Z"
   },
   {
    "airport": "LAS",
@@ -131,297 +104,288 @@
    "detail": "reopens Jan 27 at 23:00 UTC.",
    "key": "LAS|AIRPORT_CLOSURE",
    "first_seen": "2026-11-12T10:27:34.268Z",
-   "last_seen": "2026-11-13T23:58:17.081Z"
+   "last_seen": "2026-11-14T04:44:03.592Z"
   }
  ],
  "weather": {
   "ATL": {
-   "cat": "VFR",
-   "wind": 10,
-   "gust": 23,
+   "cat": "MVFR",
+   "wind": 7,
+   "gust": null,
    "vis": "10+",
-   "ceiling": null,
+   "ceiling": 2800,
    "wx": null,
-   "obs": 1794613920
+   "obs": 1794628320
   },
   "AUS": {
    "cat": "VFR",
    "wind": 4,
    "gust": null,
    "vis": "10+",
-   "ceiling": 20000,
+   "ceiling": null,
    "wx": null,
-   "obs": 1794613980
+   "obs": 1794628380
   },
   "BDL": {
    "cat": "VFR",
-   "wind": 9,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 3300,
-   "wx": null,
-   "obs": 1794613860
-  },
-  "BNA": {
-   "cat": "VFR",
-   "wind": 8,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 5500,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "BOS": {
-   "cat": "VFR",
-   "wind": 10,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 25000,
-   "wx": null,
-   "obs": 1794614040
-  },
-  "BWI": {
-   "cat": "VFR",
-   "wind": 9,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794614040
-  },
-  "CLT": {
-   "cat": "VFR",
-   "wind": 5,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 7000,
-   "wx": "-RA",
-   "obs": 1794613920
-  },
-  "DCA": {
-   "cat": "VFR",
-   "wind": 12,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 6000,
-   "wx": null,
-   "obs": 1794613920
-  },
-  "DEN": {
-   "cat": "VFR",
-   "wind": 6,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 22000,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "DFW": {
-   "cat": "VFR",
-   "wind": 8,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 25000,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "DTW": {
-   "cat": "VFR",
    "wind": 7,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 4200,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "EWR": {
-   "cat": "MVFR",
-   "wind": 13,
-   "gust": 19,
-   "vis": "10+",
-   "ceiling": 2800,
-   "wx": "-RA",
-   "obs": 1794613860
-  },
-  "FLL": {
-   "cat": "VFR",
-   "wind": 5,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "IAD": {
-   "cat": "VFR",
-   "wind": 13,
-   "gust": 21,
-   "vis": "10+",
-   "ceiling": 5500,
-   "wx": null,
-   "obs": 1794613920
-  },
-  "IAH": {
-   "cat": "VFR",
-   "wind": 5,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 25000,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "JFK": {
-   "cat": "MVFR",
-   "wind": 10,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 2000,
-   "wx": "-RA",
-   "obs": 1794613860
-  },
-  "LAS": {
-   "cat": "VFR",
-   "wind": 12,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 7500,
-   "wx": null,
-   "obs": 1794612540
-  },
-  "LAX": {
-   "cat": "VFR",
-   "wind": 13,
-   "gust": 21,
-   "vis": "10+",
-   "ceiling": 8500,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "LGA": {
-   "cat": "MVFR",
-   "wind": 11,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 2100,
-   "wx": null,
-   "obs": 1794613860
-  },
-  "MCO": {
-   "cat": "VFR",
-   "wind": 10,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "MDW": {
-   "cat": "VFR",
-   "wind": 9,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "MIA": {
-   "cat": "VFR",
-   "wind": 3,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "MSP": {
-   "cat": "VFR",
-   "wind": 5,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "ORD": {
-   "cat": "VFR",
-   "wind": 14,
    "gust": null,
    "vis": "10+",
    "ceiling": 14000,
    "wx": null,
-   "obs": 1794613860
+   "obs": 1794628260
   },
-  "PHL": {
-   "cat": "VFR",
-   "wind": 10,
-   "gust": 19,
-   "vis": "10+",
-   "ceiling": 3900,
-   "wx": null,
-   "obs": 1794614040
-  },
-  "PHX": {
+  "BNA": {
    "cat": "VFR",
    "wind": 7,
    "gust": null,
    "vis": "10+",
-   "ceiling": 9000,
+   "ceiling": 5000,
    "wx": null,
-   "obs": 1794613860
+   "obs": 1794628380
   },
-  "SAN": {
-   "cat": "VFR",
-   "wind": 6,
-   "gust": null,
-   "vis": 8,
-   "ceiling": 7000,
-   "wx": "-RA",
-   "obs": 1794613860
-  },
-  "SEA": {
-   "cat": "VFR",
-   "wind": 4,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": 7000,
-   "wx": null,
-   "obs": 1794613980
-  },
-  "SFO": {
-   "cat": "VFR",
-   "wind": 16,
-   "gust": null,
-   "vis": "10+",
-   "ceiling": null,
-   "wx": null,
-   "obs": 1794610560
-  },
-  "SLC": {
+  "BOS": {
    "cat": "VFR",
    "wind": 9,
    "gust": null,
    "vis": "10+",
-   "ceiling": 8500,
-   "wx": null,
-   "obs": 1794614040
-  },
-  "SUA": {
-   "cat": "VFR",
-   "wind": 4,
-   "gust": null,
-   "vis": "10+",
    "ceiling": null,
    "wx": null,
-   "obs": 1794613680
+   "obs": 1794628440
   },
-  "TPA": {
+  "BWI": {
    "cat": "VFR",
    "wind": 3,
    "gust": null,
    "vis": "10+",
    "ceiling": null,
    "wx": null,
-   "obs": 1794613980
+   "obs": 1794628440
+  },
+  "CLT": {
+   "cat": "VFR",
+   "wind": 6,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628320
+  },
+  "DCA": {
+   "cat": "VFR",
+   "wind": 9,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628320
+  },
+  "DEN": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 22000,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "DFW": {
+   "cat": "VFR",
+   "wind": 10,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 25000,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "DTW": {
+   "cat": "VFR",
+   "wind": 6,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 18000,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "EWR": {
+   "cat": "VFR",
+   "wind": 10,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 5000,
+   "wx": null,
+   "obs": 1794628260
+  },
+  "FLL": {
+   "cat": "VFR",
+   "wind": 7,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 24000,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "IAD": {
+   "cat": "VFR",
+   "wind": 6,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 5500,
+   "wx": null,
+   "obs": 1794628320
+  },
+  "IAH": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 25000,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "JFK": {
+   "cat": "VFR",
+   "wind": 13,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 6000,
+   "wx": null,
+   "obs": 1794628260
+  },
+  "LAS": {
+   "cat": "VFR",
+   "wind": 6,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 9500,
+   "wx": null,
+   "obs": 1794628560
+  },
+  "LAX": {
+   "cat": "MVFR",
+   "wind": 6,
+   "gust": null,
+   "vis": 3,
+   "ceiling": 1600,
+   "wx": "-RA BR",
+   "obs": 1794631080
+  },
+  "LGA": {
+   "cat": "VFR",
+   "wind": 9,
+   "gust": 19,
+   "vis": "10+",
+   "ceiling": 4900,
+   "wx": null,
+   "obs": 1794628260
+  },
+  "MCO": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "MDW": {
+   "cat": "VFR",
+   "wind": 6,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 3600,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "MIA": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": 16,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "MSP": {
+   "cat": "VFR",
+   "wind": 3,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "ORD": {
+   "cat": "VFR",
+   "wind": 14,
+   "gust": 19,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628260
+  },
+  "PHL": {
+   "cat": "VFR",
+   "wind": 11,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 3300,
+   "wx": null,
+   "obs": 1794628440
+  },
+  "PHX": {
+   "cat": "VFR",
+   "wind": 10,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628260
+  },
+  "SAN": {
+   "cat": "VFR",
+   "wind": 0,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 5500,
+   "wx": "-RA",
+   "obs": 1794628260
+  },
+  "SEA": {
+   "cat": "VFR",
+   "wind": 6,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 5000,
+   "wx": null,
+   "obs": 1794628380
+  },
+  "SFO": {
+   "cat": "VFR",
+   "wind": 4,
+   "gust": null,
+   "vis": 8,
+   "ceiling": 3800,
+   "wx": null,
+   "obs": 1794628560
+  },
+  "SLC": {
+   "cat": "VFR",
+   "wind": 8,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": 14000,
+   "wx": null,
+   "obs": 1794628440
+  },
+  "TPA": {
+   "cat": "VFR",
+   "wind": 4,
+   "gust": null,
+   "vis": "10+",
+   "ceiling": null,
+   "wx": null,
+   "obs": 1794628380
   }
  }
 }
